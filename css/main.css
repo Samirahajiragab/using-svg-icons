@@ -33,6 +33,11 @@ a {
   color: #76a500;
 }
 
+a:hover,
+a:focus {
+  color: #acc300;
+}
+
 .icon {
   position: relative;
   height: 8em;
@@ -46,5 +51,4 @@ a {
   top: 0;
   width: 100%;
   fill: currentColor;
-}
 }
